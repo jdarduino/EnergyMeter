@@ -1,4 +1,3 @@
-
   /*----------------------------------------Cargar Librerías--------------------------------------------*/
   #include <SPI.h>              //  Librería para comunicación SPI
   #include <Wire.h>             //  Librería wire para la comunicación I2C entre el DS1307 y El Arduino
