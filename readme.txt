@@ -19,5 +19,5 @@ EnergyMeter se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GA
 
 Todos los programas de ordenador, los archivos de computadora imágenes, resultados de datos los documentos y toda la información disponible, solo pueden ser utilizados con fines educativos.
 
-Usted puede leer la Licencia Pública General de GNU aquí. Esta página que está leyendo ahora introduce la licencia para todo el proyecto EneryMeter.
+Usted puede leer la Licencia Pública General de GNU aquí (http://www.gnu.org/copyleft/gpl.html). Esta página que está leyendo ahora introduce la licencia para todo el proyecto EneryMeter.
 
