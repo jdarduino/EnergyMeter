@@ -1,8 +1,7 @@
 EnergyMeter
 ===========
 
-Este código es la base para crear el sistema de medición de energía eléctrica, Todos los derechos reservados 
-bajo la Licencia Generl Pública GNU 
+Este código es la base para crear el sistema de medición de energía eléctrica, Todos los derechos reservados bajo la Licencia Generl Pública GNU 
 
 EneryMeter posee Copyright © 2013,2014 
 
